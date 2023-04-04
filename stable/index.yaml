@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  yeehelm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-04T11:06:59.197684+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 5dca6196b737548667013fe526966dbccc7590a30dc38b3e3d3a381b7711b4d5
+    name: yeehelm
+    type: application
+    urls:
+    - yeehelm-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-04T11:06:59.193909+09:00"
