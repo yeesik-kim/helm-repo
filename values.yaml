@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: dd530b18-kr1-registry.container.cloud.toast.com/yeesik_test/simple6
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
 
